@@ -91,12 +91,5 @@ Contributions are welcome! Please follow these steps:
 3.  Implement your changes.
 4.  Submit a pull request with a clear description of your changes.
 
-## License
 
-Placeholder - License information will be added here.
-
-## Contact
-
-*   Maintainer: [Placeholder Name]
-*   Email: [Placeholder Email]
 ```
